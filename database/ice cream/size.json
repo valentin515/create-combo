@@ -1,0 +1,47 @@
+[
+    {
+      "flavor": "chocolate",
+      "size": "small",
+      "price": 200
+    },
+    {
+      "flavor": "chocolate",
+      "size": "medium",
+      "price": 270
+    }, 
+    {
+      "flavor": "chocolate",
+      "size": "big",
+      "price": 340
+    },
+    {
+      "flavor": "vanila",
+      "size": "small",
+      "price": 210
+    },
+    {
+      "flavor": "vanila",
+      "size": "medium",
+      "price": 280
+    }, 
+    {
+      "flavor": "vanila",
+      "size": "big",
+      "price": 350
+    }, 
+    {
+      "flavor": "strawberry",
+      "size": "small",
+      "price": 210
+    },
+    {
+      "flavor": "strawberry",
+      "size": "medium",
+      "price": 280
+    }, 
+    {
+      "flavor": "strawberry",
+      "size": "big",
+      "price": 350
+    }
+]

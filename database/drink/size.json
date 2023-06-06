@@ -1,0 +1,47 @@
+[
+    {
+      "name": "soda",
+      "size": "small",
+      "price": 200
+    },
+    {
+      "name": "soda",
+      "size": "medium",
+      "price": 250
+    }, 
+    {
+      "name": "soda",
+      "size": "big",
+      "price": 250
+    },
+    {
+      "name": "fruit drink",
+      "size": "small",
+      "price": 220
+    },
+    {
+      "name": "fruit drink",
+      "size": "medium",
+      "price": 270
+    }, 
+    {
+      "name": "fruit drink",
+      "size": "big",
+      "price": 320
+    }, 
+    {
+      "name": "juice",
+      "size": "small",
+      "price": 210
+    },
+    {
+      "name": "juice",
+      "size": "medium",
+      "price": 260
+    }, 
+    {
+      "name": "juice",
+      "size": "big",
+      "price": 310
+    }
+]

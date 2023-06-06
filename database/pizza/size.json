@@ -1,0 +1,110 @@
+[
+    {
+      "name": "peperoni",
+      "size": "small",
+      "dough": "thin",
+      "price": 200
+    },
+    {
+      "name": "peperoni",
+      "size": "medium",
+      "dough": "thin",  
+      "price": 250
+    }, 
+    {
+      "name": "peperoni",
+      "size": "big",
+      "dough": "thin",
+      "price": 300
+    },
+    {
+      "name": "peperoni",
+      "size": "small",
+      "dough": "thick",
+      "price": 250
+    },
+    {
+      "name": "peperoni",
+      "size": "medium",
+      "dough": "thick",  
+      "price": 300
+    }, 
+    {
+      "name": "peperoni",
+      "size": "big",
+      "dough": "thick",
+      "price": 350
+    },
+    {
+      "name": "margarita",
+      "size": "small",
+      "dough": "thin",
+      "price": 150
+    },
+    {
+      "name": "margarita",
+      "size": "medium",
+      "dough": "thin",  
+      "price": 200
+    }, 
+    {
+      "name": "margarita",
+      "size": "big",
+      "dough": "thin",
+      "price": 250
+    },
+    {
+      "name": "margarita",
+      "size": "small",
+      "dough": "thick",
+      "price": 250
+    },
+    {
+      "name": "margarita",
+      "size": "medium",
+      "dough": "thick",  
+      "price": 300
+    }, 
+    {
+      "name": "margarita",
+      "size": "big",
+      "dough": "thick",
+      "price": 350
+    },
+    { 
+      "name": "bbq",
+      "size": "small",
+      "dough": "thin",
+      "price": 250
+    },
+    {
+      "name": "bbq",
+      "size": "medium",
+      "dough": "thin",  
+      "price": 300
+    }, 
+    {
+      "name": "bbq",
+      "size": "big",
+      "dough": "thin",
+      "price": 350
+    },
+    {
+      "name": "bbq",
+      "size": "small",
+      "dough": "thick",
+      "price": 250
+    },
+    {
+      "name": "bbq",
+      "size": "medium",
+      "dough": "thick",  
+      "price": 300
+    }, 
+    {
+      "name": "bbq",
+      "size": "big",
+      "dough": "thick",
+      "price": 350
+    }
+]
